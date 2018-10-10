@@ -1,0 +1,7 @@
+常用jar包下载网址
+http://search.maven.org/   (下载常用的jar)
+或  
+http://mvnrepository.com/
+
+或
+http://maven.aliyun.com/nexus/#wekcome
